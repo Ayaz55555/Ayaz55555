@@ -21,7 +21,7 @@
 
 ---
 
-## 💠 Neon Tech Arsenal (Same Skills)
+## 💠 Tech Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,solidity,web3,github,git,firebase,vite" />
