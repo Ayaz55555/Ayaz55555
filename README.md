@@ -1,4 +1,4 @@
-<!-- CYBERPUNK HEADER -->
+<!-- TECH HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF00F6&center=true&vCenter=true&width=700&lines=Ayaz+%E2%80%94+Web3+Front-end+Engineer;Creating+Neon+Fast+Futuristic+UIs;Cyberpunk+Developer+%7C+Tech+Explorer" />
 </h1>
