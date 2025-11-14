@@ -29,7 +29,7 @@
 
 ---
 
-## 🔥 GitHub Systems — Cyberpunk Analytics
+## 🔥 GitHub Systems — Analytics
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Cyber Links — Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com">
