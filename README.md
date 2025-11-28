@@ -51,8 +51,3 @@
     <img src="https://img.shields.io/badge/Twitter-FF00E6?style=for-the-badge&logo=twitter&logoColor=141414">
   </a>
 </p>
-
----
-
-<h2 align="center" style="color:#ff00e6;">⚔️ CYBERPUNK MODE: LOADED.</h2>
-<h3 align="center" style="color:#00f0ff;">Building Neon-Powered Systems for the Future.</h3>
