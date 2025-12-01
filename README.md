@@ -37,18 +37,6 @@ they are **neon systems** you *interact* with ✨
 
 ---
 
-## 🔥 **Stats — Digital Footprint**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayaz55555&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00f0ff&title_color=ff00e6&text_color=c9d1d9" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaz55555&layout=compact&theme=tokyonight&hide_border=true&title_color=ff00e6&text_color=c9d1d9" height="170" />
-
-</div>
-
----
-
 ## 🌐 **Connect With My Layer**
 
 <p align="center">
