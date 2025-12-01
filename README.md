@@ -1,35 +1,43 @@
-<!-- TECH HEADER -->
+<!-- 🚀 CYBER HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF00F6&center=true&vCenter=true&width=700&lines=Ayaz+%E2%80%94+Web3+Front-end+Engineer;Creating+Neon+Fast+Futuristic+UIs;Cyberpunk+Developer+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=FF00F6&center=true&vCenter=true&width=650&lines=Ayaz+—+Web3+Front-End+Engineer;Building+Neon+Fast+Futuristic+Interfaces;Cyberpunk+UI+Technologist+⚡" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WEB3-ENGINEER-ff00e6?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/CYBERPUNK-MODE-00f0ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NEON-CODER-8400ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WEB3-ENGINEER-ff00e6?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/CYBERPUNK-STACK-00eaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NEON-UI%20DEV-8b00ff?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧬 Who Am I?
+## 🧬 **Who Am I?**
 
-⚡ I’m **Ayaz**, a front-end developer blending **clean UI with Web3 logic**  
-🛠 Skilled in designing fast & reactive futuristic interfaces  
-🌐 Exploring **blockchain UX, Solidity & next-gen digital systems**  
-💡 I love neon vibes, cyber aesthetics & high-performance builds  
-🚀 Goal: *To build tech that feels alive and ahead of its time.*
+I’m **Ayaz**, a **front-end and Web3 interface architect** crafting UIs that look like  
+they were stolen from **the future** ⚡
+
+✨ I merge:
+
+- ⚙️ **Smart contract logic** with **instant UI feedback**
+- 🎨 **Cyberpunk aesthetics** with **minimal UX**
+- 🧪 **Blockchain experimentation** with real deployments
+
+My builds are not websites —  
+they are **neon systems** you *interact* with ✨
 
 ---
 
-## 💠 Tech Skills
+## 💠 **Tech Arsenal**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,solidity,web3,github,git,firebase,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,solidity,web3,ethers,git,github,firebase,vite" />
 </p>
+
+> Specializing in **real-time on-chain UI**, mint flows, gas-aware components & multi-chain tooling.
 
 ---
 
-## 🔥 GitHub Systems — Analytics
+## 🔥 **Stats — Digital Footprint**
 
 <div align="center">
 
@@ -41,10 +49,21 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 **Connect With My Layer**
 
-## Connect
+<p align="center">
+<a href="https://x.com/MrX609060">
+  <img src="https://img.shields.io/badge/Twitter-0A95FF?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://github.com/ayaz55555">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-<div align="center">
+---
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MrX609060)
+### 🎭 **Current Mission**
+> Building interfaces that feel like **you’re hacking the metaverse**, not clicking a website.
+
+**The future is UI-driven.  
+And it should glow.**
